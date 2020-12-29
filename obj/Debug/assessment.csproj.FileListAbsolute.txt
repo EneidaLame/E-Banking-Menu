@@ -1,0 +1,25 @@
+C:\Users\Eneid\source\repos\assessment\assessment\bin\Debug\assessment.exe.config
+C:\Users\Eneid\source\repos\assessment\assessment\bin\Debug\assessment.exe
+C:\Users\Eneid\source\repos\assessment\assessment\bin\Debug\assessment.pdb
+C:\Users\Eneid\source\repos\assessment\assessment\obj\Debug\assessment.csprojAssemblyReference.cache
+C:\Users\Eneid\source\repos\assessment\assessment\obj\Debug\assessment.exe
+C:\Users\Eneid\source\repos\assessment\assessment\obj\Debug\assessment.pdb
+C:\Users\Eneid\Desktop\assessment\assessment\bin\Debug\assessment.exe.config
+C:\Users\Eneid\Desktop\assessment\assessment\bin\Debug\assessment.exe
+C:\Users\Eneid\Desktop\assessment\assessment\bin\Debug\assessment.pdb
+C:\Users\Eneid\Desktop\assessment\assessment\obj\Debug\assessment.csprojAssemblyReference.cache
+C:\Users\Eneid\Desktop\assessment\assessment\obj\Debug\assessment.exe
+C:\Users\Eneid\Desktop\assessment\assessment\obj\Debug\assessment.pdb
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\bin\Debug\assessment.exe.config
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\bin\Debug\assessment.exe
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\bin\Debug\assessment.pdb
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\obj\Debug\assessment.csprojAssemblyReference.cache
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\obj\Debug\assessment.exe
+G:\Computing\Assignment\Introduction to Software Development\E-Banking\assessment\obj\Debug\assessment.pdb
+E:\Computing\Final Assignments\C#\E-Banking\assessment\bin\Debug\assessment.exe.config
+E:\Computing\Final Assignments\C#\E-Banking\assessment\bin\Debug\assessment.exe
+E:\Computing\Final Assignments\C#\E-Banking\assessment\bin\Debug\assessment.pdb
+E:\Computing\Final Assignments\C#\E-Banking\assessment\obj\Debug\assessment.csprojAssemblyReference.cache
+E:\Computing\Final Assignments\C#\E-Banking\assessment\obj\Debug\assessment.csproj.CoreCompileInputs.cache
+E:\Computing\Final Assignments\C#\E-Banking\assessment\obj\Debug\assessment.exe
+E:\Computing\Final Assignments\C#\E-Banking\assessment\obj\Debug\assessment.pdb
